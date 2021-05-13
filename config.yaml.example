@@ -1,0 +1,4 @@
+--- 
+deltaflux: 
+  api_key: my_api_key
+  connection_string: Server=localhost;User Id=SA;Password=securePassword123;Database=test_database
